@@ -165,12 +165,6 @@ serviceAccountKey.json
 
 ---
 
-## 📝 Lisans
-
-MIT — dilediğiniz gibi kullanın, geliştirin, paylaşın.
-
----
-
 ## 🙌 Teşekkür
 
 Bu projeyi kullanarak klasik ve semantik aramayı birlikte deneyimlediğiniz için teşekkürler.  
